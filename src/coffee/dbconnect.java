@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author anusha
+ * @author abhinav
  */
 public class dbconnect {
     Connection conn;
