@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Anusha
+ * @author NAMITHA SHREE
  */
 public class ForgotPasswords extends javax.swing.JFrame {
 Connection conn;
