@@ -19,7 +19,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 /**
  *
- * @author Anusha
+ * @author NAMITHA SHREE
  */
 public class FrontPage extends javax.swing.JFrame {
 
