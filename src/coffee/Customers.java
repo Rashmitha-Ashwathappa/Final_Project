@@ -38,7 +38,7 @@ import java.io.FileNotFoundException;
 
 /**
  *
- * @author Anusha
+ * @author NAMITHA SHREE
  * 
  */
 public class Customers extends javax.swing.JFrame {
